@@ -2,7 +2,7 @@ Mission statement for the mod: A collection of additions made to give unloved it
 
 Project inspired by my original work "XMod Additions" from years ago. The project aims to keep the "kitchen sink" feel that the original project has, while focusing the overall project towards this new goal of "Vanilla+". Progress will likely happen intermittently as time and inspiration strike. The goal with this mod is to distinctly avoid the idea of "overhauling" the Vanilla experience, and instead wants to add seasoning and flavor to it all. I want to take a look at all the loose ends, disconnected features, and underappreciated or underdeveloped ideas and try to expand upon them, with restraint and care not to make Minecraft into a different game. I want to keep Redstone and add onto it, not replace it with RF/Flux/etc. I want to bolster the inventory system, not replace it with Applied Energistcs 2. I want to give new uses for things that have almost none. I want to add additional utility in some areas I personally feel are lacking in the base game.
 
-In short, I want this to become something that almost feels like a "mini modpack" that keeps Vanilla at the front and center. This mod should hopefulyl feel invisible, slotting all of it's ideas and features comfortably into the base experience without overwriting or undermining a single thing.
+In short, I want this to become something that almost feels like a "mini modpack" that keeps Vanilla at the front and center. This mod should hopefully feel invisible, slotting all of it's ideas and features comfortably into the base experience without overwriting or undermining a single thing.
 
 Current roadmap plans for long-term version support:
 * Forge 1.18.2 (last good version of MC in my own personal opinion)
