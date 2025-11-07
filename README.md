@@ -4,7 +4,7 @@ Project inspired by my original work "XMod Additions" from years ago. The projec
 
 Current roadmap plans for long-term version support:
 * Forge 1.18.2 (last good version of MC in my own personal opinion)
-* NeoForge latest version
+* NeoForge (latest version within reason)
 * Fabric (very much experimental and will not be a focus but I do intend to keep as much feature parity as possible and still maintain good performance and stability)
 
 In case you wandered into here without seeing what the mod is about:
